@@ -1,0 +1,19 @@
+SOURCE OF ERROR, TIME SINCE START, DESCRIPTION 
+Rail ,  76.41 ,  Fell/stopped 
+Large Arm ,  96.54 ,  Arm obstructed 
+Dispenser ,  127.62 ,  Empty or obstructed 
+Large Arm ,  142.20 ,  Arm obstructed 
+Rail ,  200.62 ,  Fell/stopped 
+
+TOTAL TIME:  218.06 
+TOTAL ERRORS:  5 
+ITERATIONS:  8 
+ERROR RATE:  0.62
+
+*******************************************************
+Note: the output above this line was generated from
+a test in which error were caused intentionally
+to display the logging capabilities of the robot.
+It does not reflect the actual error rate of the robot
+*******************************************************
+
